@@ -1,5 +1,7 @@
 # CleverTap Xamarin SDK
 
+[![codebeat badge](https://codebeat.co/badges/79a266a1-a09c-40f2-9b7b-4d3865edc549)](https://codebeat.co/projects/github-com-ygit-clevertap-xamarin-master)
+
 The CleverTap Xamarin SDK for Mobile Customer Engagement and Analytics solutions 
 
 CleverTap brings together real-time user insights, an advanced segmentation engine, and easy-to-use marketing tools in one mobile marketing platform — giving your team the power to create amazing experiences that deepen customer relationships. Our intelligent mobile marketing platform provides the insights you need to keep users engaged and drive long-term retention and growth.
